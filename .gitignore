@@ -1,0 +1,7 @@
+# Ignore temporary / large files
+*.mat
+*.asv
+.DS_Store
+*.mat
+*.xlsx
+.DS_Store
